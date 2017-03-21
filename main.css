@@ -1,0 +1,83 @@
+@charset "utf-8";
+body {
+	background-color: antiquewhite
+}
+h1 {
+	text-align: center;
+}
+#contacts {
+	text-indent: 1em;
+	padding-top:0.5px;
+	margin-top: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 0;
+	width: 550px;
+	height: 180px;
+	align-self: center;
+	background-color: lightsteelblue;
+}
+.body {
+	line-height: 0;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightsteelblue;
+	width: 1000px;
+	height:240px;
+	padding-top: 0.10px;
+}
+
+}
+br {
+	text-indent: 1em;
+}
+nav  {
+	text-align: center;
+	word-spacing: 6px;
+}
+img {
+	float: left;
+	padding-left: 1em;
+	padding-top: 1em;
+	padding-right:1em;
+	
+}
+.body p {
+	line-height: 1;
+}
+.history {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightsteelblue;
+	width: 1000px;
+	height:480px;
+	padding-left: 10px;
+	padding-top: 0.10px;
+}
+.trainer {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightsteelblue;
+	width: 1000px;
+	height:300px;
+	padding-left: 10px;
+	padding-top: 0.10px;
+}
+.links {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightsteelblue;
+	width: 1000px;
+	height:180px;
+	padding-left: 10px;
+	padding-top: 0.10px;
+}
+.article {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightsteelblue;
+	width: 1000px;
+	height:735px;
+	padding-left: 10px;
+	padding-top: 0.10px;
+}
